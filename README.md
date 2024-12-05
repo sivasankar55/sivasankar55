@@ -3,6 +3,7 @@ Hi there! I'm a passionate Full-Stack Developer with expertise in React, JavaScr
 
 
 ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/siva-sankar-0552b2247) 
  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@CtrlConqueror) 
 
 # 💻 Tech Stack:
