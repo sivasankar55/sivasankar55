@@ -1,5 +1,15 @@
-# 💫 About Me:
-Hi there! I'm a passionate Full-Stack Developer with expertise in React, JavaScript, Node.js, and a growing interest in TypeScript. I enjoy building scalable applications, designing clean and efficient code, and constantly learning new technologies.<br><br>💡 What I Do:<br><br>Frontend: HTML, CSS, JavaScript, React, Next.js, Tailwind<br>Backend: Node.js, Express.js<br>Database: MongoDB, Convex<br>🎯 Current Project:<br>I'm developing a scalable movie app that integrates React, Tailwind, Node.js, and MongoDB.<br><br>✨ Tech Interests:<br><br>Exploring new technologies<br>Mastering React Architecture<br>Experimenting with design patterns in software development<br>📚 Learning:<br><br>Advanced JavaScript<br>Scalable architecture for modern web apps<br>📫 Let's Connect!<br>Feel free to explore my repositories and reach out if you'd like to collaborate or discuss ideas!
+# 👋 Hi, I'm Sivasankar
+Frontend Developer focused on building fast, responsive, and real-time web applications. I specialize in JavaScript, React, modern UI engineering, API integration, and state management. I care about clean code, predictable architecture, and delivering smooth user experiences..<br><br>🚀 What I Work On
+
+High-quality React applications with modular, reusable components
+
+Real-time communication features (chat, calls, presence, syncing)
+
+Robust authentication, permissions, and secure API flows
+
+Performance-focused frontend development with modern tooling
+
+Scalable backend logic using Node.js, Express, MongoDB, and Redis<br>🎯 Current Project:<br>I'm developing a scalable movie app that integrates React, Tailwind, Node.js, and MongoDB.<br><br>✨ Tech Interests:<br><br>Exploring new technologies<br>Mastering React Architecture<br>Experimenting with design patterns in software development<br>📚 Learning:<br><br>Advanced JavaScript<br>Scalable architecture for modern web apps<br>📫 Let's Connect!<br>Feel free to explore my repositories and reach out if you'd like to collaborate or discuss ideas!
 
 
 
