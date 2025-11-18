@@ -21,7 +21,8 @@ Exploring emerging technologies
 
 Clean architecture & scalable design patterns
 
-Improving frontend performance and developer experience<br>📫 Let's Connect
+Improving frontend performance and developer experience<br><br>
+]📫 Let's Connect
 
 Open to collaboration, discussions, and interesting projects—feel free to explore my repos and reach out anytime!
 
