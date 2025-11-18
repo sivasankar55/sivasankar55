@@ -9,7 +9,8 @@ Robust authentication, permissions, and secure API flows
 
 Performance-focused frontend development with modern tooling
 
-Scalable backend logic using Node.js, Express, MongoDB, and Redis<br>🛠️ Tech Stack
+Scalable backend logic using Node.js, Express, MongoDB, and Redis<br>
+🛠️ Tech Stack
 
 Frontend: React, Tailwind CSS, Zustand, TanStack Query, Axios, React Router, Bootstrap
 Backend: Node.js, Express, MongoDB, JWT, Redis
