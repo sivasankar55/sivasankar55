@@ -9,7 +9,12 @@ Robust authentication, permissions, and secure API flows
 
 Performance-focused frontend development with modern tooling
 
-Scalable backend logic using Node.js, Express, MongoDB, and Redis<br>🎯 Current Project:<br>I'm developing a scalable movie app that integrates React, Tailwind, Node.js, and MongoDB.<br><br>✨ Tech Interests:<br><br>Exploring new technologies<br>Mastering React Architecture<br>Experimenting with design patterns in software development<br>📚 Learning:<br><br>Advanced JavaScript<br>Scalable architecture for modern web apps<br>📫 Let's Connect!<br>Feel free to explore my repositories and reach out if you'd like to collaborate or discuss ideas!
+Scalable backend logic using Node.js, Express, MongoDB, and Redis<br>🛠️ Tech Stack
+
+Frontend: React, Tailwind CSS, Zustand, TanStack Query, Axios, React Router, Bootstrap
+Backend: Node.js, Express, MongoDB, JWT, Redis
+Languages: JavaScript, TypeScript, HTML, CSS
+Tools: Git, GitHub, VS Code, Postman, Cursor<br><br>✨ Tech Interests:<br><br>Exploring new technologies<br>Experimenting with design patterns in software development<br>📫 Let's Connect!<br>Feel free to explore my repositories and reach out if you'd like to collaborate or discuss ideas!
 
 
 
