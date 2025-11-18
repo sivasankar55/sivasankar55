@@ -9,13 +9,21 @@ Robust authentication, permissions, and secure API flows
 
 Performance-focused frontend development with modern tooling
 
-Scalable backend logic using Node.js, Express, MongoDB, and Redis<br>
+Scalable backend logic using Node.js, Express, MongoDB, and Redis<br><br>
 🛠️ Tech Stack
 
 Frontend: React, Tailwind CSS, Zustand, TanStack Query, Axios, React Router, Bootstrap
 Backend: Node.js, Express, MongoDB, JWT, Redis
 Languages: JavaScript, TypeScript, HTML, CSS
-Tools: Git, GitHub, VS Code, Postman, Cursor<br><br>✨ Tech Interests:<br><br>Exploring new technologies<br>Experimenting with design patterns in software development<br>📫 Let's Connect!<br>Feel free to explore my repositories and reach out if you'd like to collaborate or discuss ideas!
+Tools: Git, GitHub, VS Code, Postman, Cursor<br><br>✨ Tech Interests
+
+Exploring emerging technologies
+
+Clean architecture & scalable design patterns
+
+Improving frontend performance and developer experience<br>📫 Let's Connect
+
+Open to collaboration, discussions, and interesting projects—feel free to explore my repos and reach out anytime!
 
 
 
