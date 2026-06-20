@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I'm Sivasankar
 Full Stack Developer (Next.js · Node.js · TypeScript) | AI & GenAI Integrations | Building Production-Grade Apps with React, Supabase & Cloud CI/CD
 
