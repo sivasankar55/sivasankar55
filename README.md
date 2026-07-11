@@ -62,9 +62,6 @@ const sivasankar = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.hackclub.dev/api?username=sivasankar55&show_icons=true&count_private=true&hide_border=true&title_color=00f0ff&icon_color=ff00aa&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
-<img height="180" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=sivasankar55&layout=compact&hide_border=true&title_color=00f0ff&text_color=c9d1d9&bg_color=0d1117" alt="langs"/>
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=sivasankar55&theme=black-ice&hide_border=true&background=0d1117&stroke=00f0ff&ring=ff00aa&fire=ffd700&currStreakLabel=00f0ff" alt="streak"/>
@@ -74,32 +71,6 @@ const sivasankar = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivasankar55&bg_color=0d1117&color=00f0ff&line=ff00aa&point=ffd700&area=true&hide_border=true" alt="activity graph"/>
 
 </div>
-
----
-
-## <samp>` 04 `</samp> &nbsp;featured builds
-
-<!-- 👇 replace REPO_NAME_1 / REPO_NAME_2 with two repos you want to spotlight -->
-<div align="center">
-
-<a href="https://github.com/sivasankar55/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sivasankar55&repo=REPO_NAME_1&hide_border=true&title_color=00f0ff&icon_color=ff00aa&text_color=c9d1d9&bg_color=0d1117" alt="repo 1"/>
-</a>
-<a href="https://github.com/sivasankar55/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sivasankar55&repo=REPO_NAME_2&hide_border=true&title_color=00f0ff&icon_color=ff00aa&text_color=c9d1d9&bg_color=0d1117" alt="repo 2"/>
-</a>
-
-</div>
-
----
-
-## <samp>` 05 `</samp> &nbsp;trophy shelf
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sivasankar55&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trophies"/>
-</div>
-
----
 
 ## <samp>` 06 `</samp> &nbsp;/dev/connect
 
