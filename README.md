@@ -62,8 +62,8 @@ const sivasankar = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sivasankar55&show_icons=true&count_private=true&hide_border=true&title_color=00f0ff&icon_color=ff00aa&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasankar55&layout=compact&hide_border=true&title_color=00f0ff&text_color=c9d1d9&bg_color=0d1117" alt="langs"/>
+<img height="180" src="https://github-readme-stats.hackclub.dev/api?username=sivasankar55&show_icons=true&count_private=true&hide_border=true&title_color=00f0ff&icon_color=ff00aa&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
+<img height="180" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=sivasankar55&layout=compact&hide_border=true&title_color=00f0ff&text_color=c9d1d9&bg_color=0d1117" alt="langs"/>
 
 <br/>
 
