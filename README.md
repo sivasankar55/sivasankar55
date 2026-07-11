@@ -1,127 +1,124 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00ff41&height=220&section=header&text=SIVASANKAR&fontSize=60&fontColor=00FF41&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20AI-Powered%20Web%20Apps&descAlignY=58&descSize=18&animation=fadeIn" alt="header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d1b0d,100:001a00&height=200&section=header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=root%40sivasankar%3A~%24+whoami;%3E+Full-Stack+Developer+(MERN);%3E+React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;%3E+Turning+%E2%98%95+into+production+code;%3E+Building+AI-Powered+Web+Apps..." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1800&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=800&lines=INITIALIZING+SYSTEM...;ACCESSING+MAINFRAME...;IDENTITY+VERIFIED+%E2%9C%93;WELCOME%2C+SIVASANKAR;ACCESS+LEVEL%3A+ROOT" alt="boot sequence"/>
 
-<br/>
+<br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sivasankar55&color=00ff41&style=flat-square&label=PROFILE+VIEWS)](https://github.com/sivasankar55)
-[![GitHub followers](https://img.shields.io/github/followers/sivasankar55?style=flat-square&color=00ff41&label=FOLLOWERS)](https://github.com/sivasankar55)
-![Status](https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-00ff41?style=flat-square&labelColor=0d1117)
+[![ACCESS](https://img.shields.io/badge/ACCESS-GRANTED-00FF41?style=for-the-badge&labelColor=000000&logo=protondrive&logoColor=00FF41)](#)
+[![STATUS](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=000000&logo=statuspage&logoColor=00FF41)](#)
+[![ENCRYPTION](https://img.shields.io/badge/ENCRYPTION-AES--256-00FF41?style=for-the-badge&labelColor=000000&logo=letsencrypt&logoColor=00FF41)](#)
 
 </div>
 
 <br/>
 
-## 🧠 `> system.log`
-
-```yaml
-identity:
-  name: Sivasankar
-  role: Full-Stack Developer (MERN)
-  focus: AI-Powered Web Applications
-  mindset: "Ship fast. Break things (in dev). Fix smarter."
-  status: [ONLINE] compiling ideas into reality...
+```
+┌──────────────────────────────────────────────────────────────────┐
+│  root@sivasankar:~# neofetch                                      │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                    │
+│      ██████╗██╗   ██╗██████╗ ███████╗██████╗                     │
+│     ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗                    │
+│     ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝                    │
+│     ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗                    │
+│     ╚██████╗   ██║   ██████╔╝███████╗██║  ██║                    │
+│      ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝                    │
+│                                                                    │
+│     user@handle    : Sivasankar (ctrl-bug)                        │
+│     class           : Full-Stack Developer                        │
+│     specialization  : MERN Stack + AI-Powered Applications        │
+│     languages       : JavaScript, TypeScript, Python, Java        │
+│     uptime          : building since day one, never idle          │
+│     current_process : shipping code // debugging reality           │
+│     shell           : node --experimental // caffeine.sh          │
+│                                                                    │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
 
-## ⚡ `> featured_projects --list --verbose`
+## `> exec featured_projects.sh`
 
 <div align="center">
 
 ```
-██╗      ██████╗  █████╗ ██████╗ ██╗███╗   ██╗ ██████╗
-██║     ██╔═══██╗██╔══██╗██╔══██╗██║████╗  ██║██╔════╝
-██║     ██║   ██║███████║██║  ██║██║██╔██╗ ██║██║  ███╗
-██║     ██║   ██║██╔══██║██║  ██║██║██║╚██╗██║██║   ██║
-███████╗╚██████╔╝██║  ██║██████╔╝██║██║ ╚████║╚██████╔╝
-╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝
+[ SCANNING REPOSITORIES ]  ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  50%
+[ AWAITING PAYLOAD... ]    project data not yet injected
 ```
 
-**🚧 Project showcase incoming — drop your repos and I'll build cards for each one.**
+**🔓 Slot's open — send your project names, links, and stack, and I'll compile full breach-report style cards for each one.**
 
 </div>
 
 <!--
-TEMPLATE — duplicate this block per project once you send details:
+INJECT PROJECT BLOCK HERE (repeat per project):
 
-<table>
-<tr>
-<td width="50%">
+### `[ PROJECT_NAME ]`
+> One-line mission briefing on what it does.
 
-### 🔹 [Project Name](https://link-to-project.com)
-One-punch description of what it does and the problem it solves.
+`STACK:` React • Node.js • MongoDB • Socket.io
 
-`React` `Node.js` `MongoDB` `Socket.io`
-
-[![Repo](https://img.shields.io/badge/View-Repo-00ff41?style=flat-square&logo=github)](https://github.com/link)
-[![Live](https://img.shields.io/badge/Live-Demo-00ff41?style=flat-square&logo=vercel)](https://live-link.com)
-
-</td>
-<td width="50%">
-<img src="screenshot-or-gif-url.png" width="100%"/>
-</td>
-</tr>
-</table>
+[![DEPLOY](https://img.shields.io/badge/LIVE-DEMO-00FF41?style=for-the-badge&labelColor=000000)](live-link)
+[![SOURCE](https://img.shields.io/badge/SOURCE-CODE-00FF41?style=for-the-badge&labelColor=000000&logo=github)](repo-link)
 -->
 
 <br/>
 
-## 💻 `> tech_stack --scan`
+## `> exec tech_arsenal.sh`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,redux,tailwind,sass,bootstrap,mongodb,mysql,postgres,redis,prisma,firebase,supabase,aws,docker,vercel,netlify,figma,git,github,postman,jest&theme=dark&perline=10" alt="tech stack icons"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,redux,tailwind,sass,bootstrap,mongodb,mysql,postgres,redis,prisma,firebase,supabase,aws,docker,vercel,netlify,figma,git,github,postman,jest&theme=dark&perline=9"/>
 
 </div>
 
 <br/>
 
-## 📊 `> stats --render`
+## `> exec system_metrics.sh`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sivasankar55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sivasankar55&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sivasankar55&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=39FF14&border_color=00FF41" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sivasankar55&theme=highcontrast&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=39FF14" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasankar55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=10" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sivasankar55&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasankar55&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=39FF14&border_color=00FF41&langs_count=10" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sivasankar55&theme=react-dark&hide_border=true&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF" width="48%"/>
 
 </div>
 
 <br/>
 
-## 🏆 `> trophies --unlock`
+## `> exec trophy_case.sh`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sivasankar55&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sivasankar55&theme=matrix&no-frame=true&no-bg=false&margin-w=8&column=7"/>
 
 </div>
 
 <br/>
 
-## 🐍 `> contribution_snake --run`
+## `> exec contribution_worm.sh`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sivasankar55/sivasankar55/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/sivasankar55/sivasankar55/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub>⚙️ Needs a one-time setup — see notes below to activate this on your profile.</sub>
+<sub>⚙️ requires a one-time GitHub Action deploy on your profile repo — say the word and I'll generate the workflow file</sub>
 
 </div>
 
 <br/>
 
-## 🌐 `> connect --socials`
+## `> exec open_channels.sh`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ctrl-bug/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Ctrl_Mr_bug)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivasankar8875@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-00FF41?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/ctrl-bug/)
+[![X](https://img.shields.io/badge/X-FOLLOW-00FF41?style=for-the-badge&labelColor=000000&logo=x&logoColor=00FF41)](https://x.com/Ctrl_Mr_bug)
+[![Gmail](https://img.shields.io/badge/EMAIL-TRANSMIT-00FF41?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=00FF41)](mailto:sivasankar8875@gmail.com)
 
 </div>
 
@@ -129,8 +126,8 @@ One-punch description of what it does and the problem it solves.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:203a43,100:0f2027&height=150&section=footer&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=connection+terminated...;session+logged.;until+next+commit+%F0%9F%9A%80" alt="footer"/>
 
-`> connection closed. see you in the next commit. 🚀`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:001a00,50:0d1b0d,100:000000&height=120&section=footer"/>
 
 </div>
