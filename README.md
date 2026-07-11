@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- ─────────────── HERO BANNER ─────────────── -->
-<a href="https://github.com/sivasankar55">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=%3C%20Sivasankar%20%2F%3E&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%7B%20building%20AI-powered%20web%20apps%20%7D&descSize=18&descAlignY=60" alt="banner"/>
-</a>
-
 <!-- ─────────────── ANIMATED TYPING ─────────────── -->
 <a href="https://github.com/sivasankar55">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=680&lines=%3E+booting+kernel...+ok;%3E+whoami+%E2%86%92+Full-Stack+Developer+(MERN);%3E+stack+%E2%86%92+React+%C2%B7+Next.js+%C2%B7+TS+%C2%B7+Node;%3E+currently+shipping+%E2%86%92+AI-powered+web+apps;%3E+status+%E2%86%92+open+to+collabs+%F0%9F%9A%80" alt="typing"/>
