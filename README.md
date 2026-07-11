@@ -113,6 +113,33 @@ const sivasankar = {
 </div>
 
 ---
+## <samp>` 02 `</samp> &nbsp;arsenal
+
+<div align="center">
+
+### ⚡ languages
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,html,css&theme=dark" alt="languages"/>
+
+### 🎨 frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,bootstrap,vite&theme=dark" alt="frontend"/>
+
+### 🛠 backend & data
+<img src="https://skillicons.dev/icons?i=nodejs,express,bun,socketio,npm,mongodb,postgres,mysql,redis,prisma,supabase,firebase&theme=dark" alt="backend"/>
+
+### ☁️ infra, testing & tools
+<img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,vercel,netlify,sentry,git,github,jest,postman,figma&theme=dark" alt="infra"/>
+
+### 📚 libraries & extras
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139)
+
+</div>
 
 <div align="center">
 
