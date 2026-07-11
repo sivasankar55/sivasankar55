@@ -51,23 +51,7 @@ const sivasankar = {
 
 </div>
 
----
-
-## <samp>` 03 `</samp> &nbsp;the numbers
-
-<div align="center">
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=sivasankar55&theme=black-ice&hide_border=true&background=0d1117&stroke=00f0ff&ring=ff00aa&fire=ffd700&currStreakLabel=00f0ff" alt="streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sivasankar55&bg_color=0d1117&color=00f0ff&line=ff00aa&point=ffd700&area=true&hide_border=true" alt="activity graph"/>
-
-</div>
-
-## <samp>` 04 `</samp> &nbsp;/dev/connect
+## <samp>` 03 `</samp> &nbsp;/dev/connect
 
 <div align="center">
 
