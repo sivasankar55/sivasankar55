@@ -10,7 +10,7 @@
 <!-- ─────────────── QUICK STATS BAR ─────────────── -->
 <img src="https://komarev.com/ghpvc/?username=sivasankar55&label=visitors&color=00f0ff&style=for-the-badge" alt="visitors"/>
 <img src="https://img.shields.io/github/followers/sivasankar55?label=followers&style=for-the-badge&color=ff00aa&labelColor=0d1117" alt="followers"/>
-<img src="https://img.shields.io/github/stars/sivasankar55?label=stars&style=for-the-badge&color=ffd700&labelColor=0d1117" alt="stars"/>
+
 
 </div>
 
